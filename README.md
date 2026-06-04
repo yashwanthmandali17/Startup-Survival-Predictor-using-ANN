@@ -1,11 +1,11 @@
-# 🚀 Startup Survival Predictor — ANN + Supabase + Streamlit
+# Startup Survival Predictor — ANN + Supabase + Streamlit
 
 Predicts whether a startup will **operate**, be **acquired**, or **close**
 using an Artificial Neural Network trained on 2,000 Crunchbase-style companies.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 startup_ann_project/
